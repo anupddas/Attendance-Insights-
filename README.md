@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anupddas/employee-attendance-insights.git
+   git clone https://github.com/anupddas/Attendance-Insights-.git
 2. Run the Power BI dashboard:
    Open the Power BI Desktop file (.pbix) to view and interact with the dashboard.
 
